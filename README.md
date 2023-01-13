@@ -1,1 +1,3 @@
-- 👋 Hi, I’m Iain
+- 👋 Hi, I’m Iain!
+- 📖 I'm a student at Carleton University studying computer science.
+- 🌐 Check out my [https://iainmcilveen.com/](# website)
