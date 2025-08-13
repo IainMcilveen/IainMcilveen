@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Iain!
-- 💻 I'm currently looking for Development Roles
 - 🌐 Check out my [website](https://iainmcilveen.com/)
