@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Iain!
+- 💻 I'm a Software Engineer at [Software Secured](https://www.softwaresecured.com/)
 - 🌐 Check out my [website](https://iainmcilveen.com/)
